@@ -15,25 +15,25 @@
 
 Homepage...
 
-    http://18.223.149.35:9000/
+    http://3.88.28.118:8000/
 
 GETLIST example :
     
-    http://18.223.149.35:9000/api/profile/
+    http://3.88.28.118:8000/api/profile/
 
 GET example:
     
-    http://18.223.149.35:9000/api/profile/?id=1
+    http://3.88.28.118:8000/api/profile/?id=1
 
 PUT:
     
-    http://18.223.149.35:9000/api/profile/?id=1
-    Content:{"phone_number":"+91XXXXXXXXX","name":"gautam"}
+    http://3.88.28.118:8000/api/profile/?id=1
+    Content:{"phone_number":"+91XXXXXXXXX","name":"gaurav"}
 
 
 
 
-[security-mail]: mailto:gautamaggrawalsd@yahoo.in
+[security-mail]: mailto:gauravdhingra9999@gmail.com
 
 
 # oscar-handson
